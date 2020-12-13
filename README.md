@@ -16,7 +16,7 @@ Actually, our idea comes from the name of this hackaton, **Cathacks: Winter Edit
 Tap into the cat to jump and try to avoid hitting the tree as far you can. Help this cat collect as much as presents for Christmas! Happy Meow Christmas!
 
 ## How I built it
-We use Unity to build the game and all the interactions. For visuals, we use Adobe Photoshop & Illustrator.
+We use Unity to build the game and all the interactions & animations. We put colliders effect into the trees, so each time the cat crashed near into the trees, it will fall down. We also put score system, in which the cat will get score everytime he take the presents between the trees. Then we use Adobe Photoshop & Illustrator for creating all the visuals.
 
 ## Challenges I ran into
 It's our first time to build a game and first time using Unity. So we have to really learn everything from scratch from tutorials (i have to admit this is not so easy at all lol), sometimes we overcome problems due to the lack of knowledge of how to use the software, but overall it was really great experience!
